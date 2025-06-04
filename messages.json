@@ -1,0 +1,6 @@
+[
+  {
+    "role": "user",
+    "content": "The deployment failed with the following error from Fly.io:\n\n'list' object has no attribute 'items'\n\nPlease fix the issue."
+  }
+]
